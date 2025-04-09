@@ -3,6 +3,24 @@ import numpy
 from scipy import stats
 import statistics
 
+#MySQL/Misc. Database Connection
+import mysql.connector #sudo pacman -S python-mysql-connector
+
+brewDB = mysql.connector.connect(
+    host="",
+    user="",
+    password="",
+    database=""
+)
+
+brewCursor = brewDB.cursor()
+
+sql = "SELECT * FROM all_beer_on_tap"
+
+results = brewCursor.fetchall()
+
+brewCursor.execute(sql)
+
 #Printing Introduction
 print('Hello and welcome to the all tap brewery database')
 
@@ -37,7 +55,7 @@ ibuPercentile = numpy.var(ibuData)
 
 if userChoice == 1:
     print("Mean Selected")
-    data_selection()
+    # data_selection()
 elif userChoice == 2:
     print("Median Selected")
 elif userChoice == 3:
