@@ -1,0 +1,219 @@
+id,brand,beer_type,beer_style,abv,ibu,brew_company
+1,Irish Cream Stout,stout,milk,5.8,25,Southern Tier Brewing Company
+2,Stella Artois,lager,pale,5,24,Stella Artois
+3,Breakfast Superhighway,ipa,milkshake,6.8,48,Hitchhiker Brewing Company
+4,Amplify the Sound,ipa,american,6.5,,Old Thunder Brewing Company
+5,Apple,cider,traditional,4.7,,
+6,Sweet Baby Banana!,porter,american,6.2,33,DuClaw Brewing Company
+7,Hopslam Ale,ipa,imperial,10,65,Bell�s Brewery
+8,Kick Step IPA,ipa,Gluten-free,5.5,60,Ghostfish Brewing Company
+9,Zombie Dust,pale ale,american,6.5,62,3 Floyds Brewing
+10,Traditional Lager,lager,american amber,4.5,12,Yuengling Brewery
+11,Miller Lite,lager,american light,4.2,10,Miller Brewing Company
+12,Volcano Sauce,sour,smoothie,6,,Aslin Beer Company
+13,Brauweisse,wheat,hefeweizen,5.1,13,Ayinger Privatbrauerei
+14,Belgian White,wheat,witbier,5.4,9,Blue Moon Brewing Company
+15,Weihenstephaner Hefeweissbier,wheat,hefeweizen,5.4,14,Bayerische Staatsbrauerei Weihenstephan
+16,Platter�s X EBC Orange Chocolate Blonde Ale,blonde ale,,7.1,17,Ellicottville Brewing Company
+17,DDH Cliffside Push,ipa,new england,7.5,,Ever Grain Brewing Company
+18,Dark Humor,lager,munich dunkel,5,23,New France Brewing Company
+19,I.C. Light,lager,american light,4.2,,Pittsburgh Brewing Company
+20,Love Potion No. 412,fruit,,5.7,,Cinderlands Beer Company
+21,Death Tripper,ipa,new england,6.7,,Tired Hands Brewing Company
+22,Dulachan IPA,ipa,american,5.6,70,Lavery Brewing Company
+23,Graffiti Highway IPA,ipa,american,6,,Troegs Independent Brewing
+24,Chester Coffee Pot,stout,coffee,5.6,,Rural City Beer Company
+25,Monogalator,bock,doppelbock,8.1,,Brew Gentlemen
+26,The Cheeseman of Dusseldorf,altbier,traditional,4.8,25,Hop Farm Brewing Company
+27,Bitburger Premium Pils,pilsner,german,4.8,23,Bitburger Brauerei
+28,Hopland Park Pale Ale,pale ale,american,6.2,48,CoStar Brewing
+29,Pocket Wrench,pale ale,new england,4.5,46,Industrial Arts Brewing
+30,Guinness Draught,stout,irish dry,4.2,45,Guinness
+31,honkers ale,bitter,session/ordinary,4.3,30,Goose Island Beer Company
+32,Bottlenectar,pale ale,american,5.5,45,Goose Island Beer Company
+33,All Day IPA,ipa,session/ordinary,4.7,42,Founders Brewing Company
+34,Big Hop American Ale,pale ale,american,5.8,0,East End Brewing Company
+35,Fog Monster � NEIPA,ipa,new england/hazy,6.8,68,Rusty Rail Brewing Company
+36,Hazy Little Thing,ipa,new england/hazy,6.7,35,Sierra Nevada Brewing Company
+37,Head Hunter,ipa,american,7.5,80,Fat Head�s Brewery
+38,IPA,ipa,american,6.2,51,Lagunitas Brewing Company
+39,Joose Juicy,ipa,new england/hazy,6,0,EverGrain Brewing Company
+40,60 Minute IPA,ipa,american,6,60,Dogfish Head Craft Brewery
+41,Venomous Villains,ipa,american,6.9,0,Kings County Brewers Collective
+42,Hazedelic Juice Grenade,ipa,new england/hazy,6.4,0,Grist House Craft Brewery
+43,Perpetual IPA,ipa,american,7.5,85,Troegs Independent Brewing
+44,Hazy Beer Hug,ipa,new england/hazy,6.8,20,Goose Island Beer Company
+45,Two Hearted IPA,ipa,american,7,55,Bell�s Brewery
+46,Voodoo Ranger Juicy Haze IPA,ipa,new england/hazy,7.5,42,New Belgium Brewing Company
+47,Lustra,pale ale,new england/hazy,5.8,45,Dancing Gnome
+48,Goose IPA,ipa,american,5.9,55,Goose Island Beer Company
+49,Big Hop American Ale,pale ale,american,5.8,0,East End Brewing Company
+50,Fog Monster � NEIPA,ipa,new england/hazy,6.8,68,Rusty Rail Brewing Company
+51,Head Hunter,ipa,american,7.5,80,Fat Head�s Brewery
+52,2xhaze,ipa,imperial/double new england/hazy,8.2,20,Southern Tier Brewing Company
+53,Joose Juicy,ipa,new england/hazy,6,0,EverGrain Brewing Company
+54,Hazedelic Juice Grenade,ipa,new england/hazy,6.4,0,Grist House Craft Brewery
+55,Perpetual IPA,ipa,american,7.5,85,Troegs Independent Brewing
+56,Double Broken Heels,ipa,imperial/double new england/hazy,9.2,0,New Trail Brewing Company
+57,Lustra,pale ale,new england/hazy,5.8,45,Dancing Gnome
+58,Golden Monkey,belgian tripel,,9.5,25,Victor Brewing Company
+59,Voodoo Love Child,belgian tripel,,9.5,25,Voodoo Brewing Company
+60,Mischievous Brown ALE,brown ale ,english,5.5,0,Helltown Brewing
+61,Railbender Ale,scottish ale,,6.8,26,Erie Brewing Company
+62,Not Always Present,kolsch,,4.8,0,Dancing Gnome
+63,Penn Dark,lager,munich dunkel,5,25,Penn Brewery
+64,Station 33 Firehouse Red,red ale,irish,5.5,0,North Country Brewing Company
+65,Royal Weisse,wheat,hefeweizen,5.6,11,Sly Fox Brewing Company
+66,White Magick of the Sun,wheat,witbier/blanche,7.3,0,Voodoo Brewing Company
+67,Hefe Weizen,wheat,hefeweizen,6.2,0,East End Brewing Company
+68,Strawberry Wheat Beer,wheat,fruited,4.7,11,Lancaster Brewing Company
+69,Sour Monkey,sour,other,9.5,10,Victory Brewing Company
+70,Nitro Peaches And Cream,fruit,,7.1,10,Urban Artifact
+71,Bumble Berry Honey Blueberry Ale,fruit,,5.3,13,Fat Head�s Brewery
+72,Proper Notch New England Style 2X IPA,ipa,imperial/double new england/hazy,8.1,83,Logyard Brewing
+73,Picket Bone Dry Hard Apple Cider,cider,traditional/apfelwein,8,0,Arsenal Cider House
+74,Pious Monk Dunkel,lager,munich dunkel,5.5,20,The Church Brew Works
+75,Penn Pilsner,lager,helles,4.9,18,Sly Fox Brewing Company
+76,Vienna Style Lager,lager,vienna,5.2,33,von Trapp Brewing
+77,Traditional Lager,lager,american amber/red,4.5,12,Yuengling Brewery
+78,I.C. Light,lager,american light,4.2,0,Pittsburgh Brewing Company
+79,Vienna Style Lager,lager,vienna,5.2,33,von Trapp Brewing
+80,Traditional Lager,lager,american amber/red,4.5,12,Yuengling Brewery
+81,Stone Buenaveza Salt & Lime Lager,lager,mexican,4.7,13,Stone Brewing
+82,Helles Golden Lager,lager,helles,4.9,18,Sly Fox Brewing Company
+83,Penn Pilsner,lager,vienna,5,30,Penn Brewery
+84,Pious Monk Dunkel,lager,munich dunkel,5.5,20,The Church Brew Works
+85,Boston Lager,lager,vienna,5,30,Samuel Adams
+86,Mango Cart,wheat,fruited,4,10,Golden Road Brewing
+87,White Magick of the Sun,wheat,witbier/blanche,7.3,0,Voodoo Brewing Company
+88,Royal Weisse,wheat,hefeweizen,5.6,11,Sly Fox Brewing Company
+89,Weihenstephaner Hefeweissbier,wheat,hefeweizen,5.4,14,Bayerische Staatsbrauerei Weihenstephan
+90,Belgian White,wheat,witbier/blanche,5.4,9,Blue Moon Brewing Company
+91,312 Wheat Ale,wheat,american pale wheat,4.2,18,Goose Island Beer Company
+92,Hefe Weizen,wheat,hefeweizen,6.2,0,East End Brewing Company
+93,Proper Notch New England Style 2X IPA,ipa,imperial/double new england/hazy,8.1,83,New Trail Brewing Company
+94,Double Broken Heels,ipa,imperial/double new england/hazy,9.2,0,New Trail Brewing Company
+95,Space Dust IPA,ipa,american,8.2,62,Elysian Brewing Company
+96,Mischievous Brown Ale,brown ale ,english,5.5,0,Helltown Brewing
+97,Railbender Ale,scottish ale,,6.8,26,Erie Brewing Company
+98,Not Always Present,kolsch,,4.8,0,Dancing Gnome
+99,8 Days A Week,blonde,golden ale � other,4.8,15,Southern Tier Brewing Company
+100,Amber Ale,red ale,american amber/red,5.8,0,Bell�s Brewery
+101,Penn Dark,lager,munich dunkel,5,25,Penn Brewery
+102,Station 33 Firehouse Red,red ale,irish,5.5,0,North Country Brewing Company
+103,Gulden Drank Classic,belgian strong dark ale,,10.5,30,Brouwerij Van Steenberge
+104,Golden Monkey,belgian tripel,,9.5,25,Victory Brewing Company
+105,Voodoo Love Child,belgian tripel,,9.5,25,Voodoo Brewing Company
+106,Love Stout,stout,irish dry,5.5,21,Yards Brewing Company
+107,Guinness Draught,stout,irish dry,4.2,45,Guinness
+108,Dragon�s Milk,stout,imperial/double ,6,25,Left Hand Brewing Company
+109,Sour Monkey,sour,other,9.5,10,Victory Brewing Company
+110,Bumble Berry Honey Blueberry Ale,fruit,,5.3,13,Fat Head�s Brewery
+111,Rubaeus,fruit,,5.7,15,Founders Brewing Company
+112,Banana Bread Beer,fruit,,5.2,18,Eagle Brewery
+113,Ace Pineapple Cider,cider,other fruit,5,0,Ace Cider (The California Cider Company)
+114,Apple,cider,traditional/apfelwein,4.7,0,Bold Rock Hard Cider
+115,Wild Berry,hard seltzer,,5,0,Truly Hard Seltzer
+116,Picket Bone Dry Hard Apple Cider,cider,traditional/apfelwein,8,0,Arsenal Cider House
+117,Crisp Apple,cider,sweet,5,0,Angry Orchard Cider Company
+118,Miller Lite,lager,american light,4.2,10,Miller Brewing Company
+119,Modelo Especial,lager,mexican,4.5,18,Grupo Modelo
+120,I.C. Light,lager,american light,4.2,0,Pittsburgh Brewing Company
+121,Corona Premier,lager,mexican,4,7,Grupo Modelo
+122,Michelob ULTRA,lager,american light,4.2,10,Anheuser-Busch
+123,Bud Light,lager,american light,4.2,6,Anheuser-Busch
+124,Coors Light,lager,american light,4.2,10,Coors Brewing Company
+125,Stella Artois,lager,pale,5,24,Stella Artois
+126,Hazy IPA,Non-alcoholic,ipa,0.5,0,Best Day Brewing
+127,Guinness Draught 0.0,Non-alcoholic,porter/stout,0,28,Guinness
+128,Upside Dawn Golden,Non-alcoholic,other,0.5,15,Athletic Brewing Company
+129,Run Wild IPA,Non-alcoholic,ipa,0.5,35,Athletic Brewing Company
+130,Mischievous Brown Ale,brown ale ,english,5.5,0,Helltown Brewing
+131,Pious Monk Dunkel,lager,munich dunkel,5.5,20,The Church Brew Works
+132,Big Hop American Ale,pale ale,american,5.8,0,East End Brewing Company
+133,Station 33 Firehouse Red,red ale,irish,5.5,0,North Country Brewing Company
+134,White Magick of the Sun,wheat,witbier/blanche,7.3,0,Voodoo Brewing Company
+135,Mango Cart,wheat,fruited,4,10,Golden Road Brewing
+136,Weihenstephaner Hefeweissbier,wheat,hefeweizen,5.4,14,Bayerische Staatsbrauerei Weihenstephan
+137,312 Wheat Ale,wheat,american pale wheat,4.2,18,Goose Island Beer Company
+138,Bottlenectar,pale ale,american,5.5,45,Goose Island Beer Company
+139,Hazy Little Thing,ipa,new england/hazy,6.7,35,Sierra Nevada Brewing Company
+140,Two Hearted IPA,ipa,american,7,55,Bell�s Brewery
+141,Space Dust IPA,ipa,american,8.2,62,Elysian Brewing Company
+142,Rubaeus,fruit,,5.7,15,Founders Brewing Company
+143,Stone Buenaveza Salt & Lime Lager,lager,mexican,4.7,13,Stone Brewing
+144,Bumble Berry Honey Blueberry Ale,fruit,,5.3,13,Fat Head�s Brewery
+145,Imperial Raspberry Jelly Donut,cider,other fruit,8.3,,Wyndridge Farm
+146,George Killian�s Irish Red,lager,american amber/red,5.2,14,Coors Brewing Company
+147,Big Wave,blonde/golden ale,american,4.4,21,Kona Brewing Hawaii
+148,Gunner�s Daughter,stout-milk,sweet,5.5,,Mast Landing Brewing Company
+149,Irish Cream Stout,stout-milk,sweet,5.8,25,Southern Tier Brewing Company
+150,Smithfield Street,ipa,american,6,,Dancing Gnome
+151,Blueberry Wheat,wheat,fruited,4.8,11,Ellicottville Brewing Company
+152,Juice Jolt,ipa,fruited,6.8,20,Southern Tier Brewing Company
+153,Sanctuary,stout-milk,russian imperial,12,,Helltown Brewing
+154,Chillwave Double IPA,ipa,imperial/double,9,80,Great Lakes Brewing Company
+155,60 Minute IPA,ipa,american,6,60,Dogfish Head Craft Brewery
+156,Strawberry Shortcake Imperial Ale,strong Ale,Other,8.6,12,Southern Tier Brewing Company
+157,Purple Haze,fruit,,4.2,13,Abita Brewing Company
+158,Bakery Near Me,stout,pasty,6.5,,Velum Fermentation
+159,Guinness Draught,stout,irish dry,4.2,45,Guinness
+160,Traditional Lager,lager,american amber/red,4.5,12,Yuengling Brewery
+161,Miller Lite,lager,american light,4.2,10,Miller Brewing Company
+162,Labatt Blue,pilsner,other,5,12,Labatt Brewing Company
+163,Summer Shandy,shandy,radler,4.2,11,Jacob Leinenkugel Brewing Company
+164,Stella Artois,lager,pale,5,24,Stella Artois
+165,Fat Tire Ale,blonde/goldenale,american,5.2,15,New Belgium Brewing Company
+166,Head Hunter ,ipa,american,7.5,87,Fat Head�s Brewery
+167,Fletch,ipa,new zealand,7.2,,Ever Grain Brewing Company
+168,Flannery�s Irish Ale,red ale,irish,5.5,,New Trail Brewing Company
+169,Willettized,stout,imperial/double coffee,13.1,60,Lagunitas Brewing Company
+170,Bumble Berry Honey Blueberry Ale,fruit,,5.3,13,Fat Head�s Brewery
+171,Miller Lite,lager,american light,4.2,10,Miller Brewing Company
+172,Hell or High Watermelon,wheat,fruited,4.9,17,21st Amendment Brewery
+173,Brauweisse,wheat,hefeweizen,5.1,13,Ayinger Privatbrauerei
+174,Chillwave Double IPA,ipa,imperial/double coffee,9,80,Great Lakes Brewing Company
+175,Volcano Sauce,sour,smoothie/pastry,6,,Aslin Beer Company
+176,Horsi Oatmeal Stout,stout,oatmeal,5,,Quinn Brewing Company
+177,Bakery Near Me ,stout,pastry,6.5,,Velum Fermentation
+178,Outta Focus Double IPA,ipa,new england/hazy,7,,New Trail Brewing Company
+179,Sweet Baby Banana,porter,american,6.2,33,DuClaw Brewing Company
+180,Rocksylvania,ipa,new england/hazy,7,,New Trail Brewing Company
+181,Hellfire Alchemist,Alchemist,porter/coffee,7,,Helltown Brewing
+182,Sanctuary,stout,russian imperial,12,,Helltown Brewing
+183,Two Hearted IPA,ipa,american,7,55,Bell�s Brewery
+184,Mango Hibiscus Belgian White Nitro,wheat,frutied,4.8,,Left Hand Brewing Company
+185,Barrel Aged Doppelbock,bock,doppelbock,8.5,,Ellicottville Brewing Company
+186,You�re My Boy Blue Sour,sour,fruited,4.3,,Appalachian Brewing Company
+187,Witty Monkey,wheat,fruited,9.5,16,Victory Brewing Company
+188,One More Sleep,stout,imperial/double milk,9.2,,Cinderlands Beer Company
+189,Lunch,ipa,american,7,,Maine Beer Company
+190,The Amber,red ale,american amber/red,4.4,,Quinn Brewing Company
+191,Mortal Bloom � Hazy IPA,ipa,new england/hazy,6.2,50,Founders Brewing Company
+192,2XHop�d,ipa,imperial/double ,8.2,45,Southern Tier Brewing Company
+193,General Braddock�s,ipa,american,6.8,,Brew Gentlemen
+194,EBC X Platter�s Chocolate Hazelnut Porter,porter,other,6.5,,Ellicottville Brewing Company
+195,Kelly�s Concord Grape,cider,traditional/apfelwein,8.5,,Arsenal Cider House
+196,Purple Haze ,fruit,,4.2,13,Abita Brewing Company
+197,Mammoth ,ipa,imperial/double ,8.5,,Brew Gentlemen
+198,Hollaback Girl,sour,fruited,6.2,,Prairie Artisan Ales
+199,Rear End Fender,kolsch,,4.6,,Rear End Fender
+200,Yuengling Traditional,lager,,5,,Yuengling Traditional
+201,Pittsburgh Brewing Co. IC Light,lager,light,4.2,,Pittsburgh Brewing Co. IC Light
+202,Hop Butcher Normalize The Signal,ipa,double,7.5,,Hop Butcher Normalize The Signal
+203,Other Half Have A Juicy Day,hazy ipa,hiops,7,,Other Half Have A Juicy Day
+204,Lolev Taupo,ipa,,6.4,,Lolev Taupo
+205,Coven Bus Stop 91,Dry Hopped Blonde Ale,hops,4.6,,Coven Bus Stop 91
+206,Hitchhiker Bane of Existence,ipa,,6.6,,Hitchhiker Bane of Existence
+207,Tired Hands DDH Grassman,double ipa,double dry hipped honey,8.3,,Tired Hands DDH Grassman
+208,Victory Royal,ipa,,6,,Victory Royal
+209,Eleventh Hour Zeus and Jupiter,ipa double,imperial,8.5,,Eleventh Hour Zeus and Jupiter
+210,Eleventh Hour la Nave Madre,lager,foeder farmhouse,4.4,,Eleventh Hour la Nave Madre
+211,Arsenal Kelly�s Concord Grape,cider,grape,8.5,,Arsenal Kelly�s Concord Grape
+212,Hop Farm Knight of Klando,pilsner,,5,,Hop Farm Knight of Klando
+213,Four Points Ritual,lager,bohemian dark,4.3,,Four Points Ritual
+214,New France Author of Spring,pale ale,strawberry,6,,New France Author of Spring
+215,Ellicottville Blueberry Maple Pancake,fruit,,7,,Ellicottville Blueberry Maple Pancake
+216,Winding Path Dark Something,stout,oatmeal,7,,Winding Path Dark Something
+217,Great Lakes Brewing Straweberry Pineapple Wheat,wheat,Strawberry & pineapple,5.5,,Great Lakes Brewing Straweberry Pineapple Wheat
+218,Aslin Volcano Sauce,sour,berry vanilla,6,,Aslin Volcano Sauce
